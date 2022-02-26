@@ -1,7 +1,0 @@
-*~
-~*
-node_modules
-dist/static/*.jpg
-dist/static/*.png
-.*.swp
-.*.swo
